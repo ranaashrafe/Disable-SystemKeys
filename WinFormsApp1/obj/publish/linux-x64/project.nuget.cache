@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l+wtNOLgjq2NMm9Hk31mlWyZZhW9hxsZBofXJM97ZRYpKPR1HUHE3UzNiCX+v/eQJvfwonHZLKD8L7e1oCJkLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DEV\\source\\repos\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DEV\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\5.0.8\\microsoft.netcore.app.host.linux-x64.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,2 @@
+C:\Users\DEV\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\netcoreapp3.1\publish\WinFormsApp1.pdb
+C:\Users\DEV\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\netcoreapp3.1\publish\WinFormsApp1.exe
